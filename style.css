@@ -443,7 +443,54 @@ small {
 .comparison-card > div {
   padding: 28px;
 }
+.example-videos {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 32px;
+  margin-top: 48px;
+}
 
+.video-card {
+  background: white;
+  border: 1px solid #e7e7ee;
+  border-radius: 24px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(20, 35, 60, 0.06);
+}
+
+.video-card video {
+  width: 100%;
+  display: block;
+  aspect-ratio: 9 / 16;
+  object-fit: cover;
+  background: #000;
+}
+
+.video-copy {
+  padding: 24px;
+}
+
+.video-copy span {
+  display: inline-block;
+  margin-bottom: 12px;
+  color: #ff5f8c;
+  font-weight: 800;
+}
+
+.video-copy h3 {
+  margin-bottom: 12px;
+}
+
+.video-copy p {
+  margin: 0;
+  color: #5d6678;
+}
+
+@media (max-width: 900px) {
+  .example-videos {
+    grid-template-columns: 1fr;
+  }
+}
 .comparison-card > div + div {
   background: #fff3f6;
   border-left: 1px solid rgba(255, 95, 140, 0.2);
