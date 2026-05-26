@@ -443,11 +443,12 @@ small {
 .comparison-card > div {
   padding: 28px;
 }
+
 .example-videos {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 0.8fr 1.2fr;
   gap: 32px;
-  margin-top: 48px;
+  align-items: start;
 }
 
 .video-card {
