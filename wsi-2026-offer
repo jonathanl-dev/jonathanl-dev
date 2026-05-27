@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Storytellit helps WSI Agencies add performance UGC and search-optimized social media packages for their clients."
+    />
+    <title>Storytellit for WSI Agencies</title>
+    <link rel="preload" href="ugc-bubble.png" as="image">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="site-header" aria-label="Primary navigation">
+      <a class="brand-link" href="#top" aria-label="Storytellit home">
+        <img src="storytellit-logo.png" alt="Storytellit" />
+      </a>
+      <nav class="nav-links" aria-label="Page sections">
+        <a href="#whats-new">What's New</a>
+        <a href="#ugc">UGC for Ads</a>
+        <a href="#social">Social Essentials</a>
+      </nav>
+      <a class="header-cta js-book-call" href="#contact">Book a Call</a>
+    </header>
+
+    <main id="top">
+      <section class="hero" id="whats-new">
+        <div class="hero__content">
+          <p class="eyebrow">2026 WSI Global Convention - Los Cabos</p>
+          <h1>New Ways to Win With Social + UGC</h1>
+          <p class="hero__lead">
+            Two powerful new ways to help your clients win: Performance UGC for
+            Meta Ads - Lead Gen and stronger visibility across search and social with SME.
+          </p>
+          <div class="hero__actions">
+            <a class="button button--primary" href="#ugc">Explore UGC Add-Ons</a>
+            <a class="button button--outline js-book-call" href="#contact">Book a Call with Jonathan</a>
+          </div>
+          <p class="trust-note">An exclusive set of services for our WSI Agency partners.</p>
+        </div>
+
+        <div class="hero__visual" aria-label="UGC creative examples">
+          <img src="ugc-bubble.png" alt="Creator-style UGC ad creative on mobile phones" />
+          <div class="result-card result-card--pink">
+            <span>43%</span>
+            <p>lower cost per conversion</p>
+          </div>
+          <div class="result-card result-card--gold">
+            <span>240%</span>
+            <p>increase to CTR</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section--white" id="ugc">
+        <div class="section-heading">
+          <span class="section-number section-number--pink">1</span>
+          <div>
+            <p class="eyebrow eyebrow--pink">UGC ad creative starting at $199</p>
+            <h2>Performance UGC for Meta Ads</h2>
+          </div>
+        </div>
+
+        <div class="ugc-layout">
+          <div class="copy-block">
+            <p>
+              Authentic, creator-crafted videos designed specifically for <b>Meta Ads -
+              Lead Generation</b> campaigns. </p>
+            <p><b>Real people. Real experiences. Real
+              results.</b>
+            </p>
+            <ul class="check-list check-list--pink">
+              <li>Builds trust and authenticity</li>
+              <li>Higher engagement and click-through rates</li>
+              <li>Lower cost per conversion</li>
+              <li>Reduces ad fatigue</li>
+            </ul>
+          </div>
+
+          <div class="metrics-panel">
+            <div class="metric-card metric-card--featured">
+              <span>43%</span>
+              <p>lower cost per conversion</p>
+              <small>
+                Clients using UGC in Meta campaigns have seen as much as a 43%
+                lower cost per conversion compared to their prior image or
+                branded video ads.
+              </small>
+            </div>
+            <div class="comparison-card">
+              <div>
+                <h3>Before</h3>
+                <p>Traditional ad creative</p>
+                <strong>$3.51</strong>
+                <small>Cost per lead</small>
+                <strong>2.30%</strong>
+                <small>Click-through rate</small>
+              </div>
+              <div>
+                <h3>After with UGC</h3>
+                <p>UGC ad creative</p>
+                <strong>$1.65</strong>
+                <small>Cost per lead</small>
+                <strong>6.36%</strong>
+                <small>Click-through rate</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="note-strip">
+          <strong>Built for today's ad environment.</strong>
+          <span>
+            Real creator content feels more authentic, builds stronger audience
+            trust, and helps avoid AI disclosure concerns and potential
+            compliance risk.
+          </span>
+        </div>
+
+        <div class="example-videos">
+
+  <article class="video-card video-card--vertical">
+
+    <video controls playsinline preload="metadata">
+
+      <source src="https://s3.amazonaws.com/storyfactory/idea/vjLPgA6rC/video-Pk2Hto0JQ.mp4" type="video/mp4">
+
+    </video>
+
+    <div class="video-copy">
+
+      <span>01</span>
+
+      <h3>Creator testimonial</h3>
+
+      <p>Human-first proof that gives prospects a reason to trust the offer.</p>
+
+    </div>
+
+  </article>
+
+  <article class="video-card video-card--horizontal">
+
+    <video controls playsinline preload="metadata">
+
+      <source src="https://s3.amazonaws.com/storyfactory/idea/AXnNBg_80/video-GagOa3QRk.mp4" type="video/mp4">
+
+    </video>
+
+    <div class="video-copy">
+
+      <span>02</span>
+
+      <h3>Product demo</h3>
+
+      <p>Shows the client product/offer in action.</p>
+
+    </div>
+
+  </article>
+
+</div>
+      </section>
+
+      <section class="section section--soft" id="social">
+        <div class="section-heading">
+          <span class="section-number section-number--purple">2</span>
+          <div>
+            <p class="eyebrow eyebrow--purple">Social Media Essentials - $440/mo Incl. $100 Meta Ads</p>
+            <h2>Social content built for modern search visibility</h2>
+          </div>
+        </div>
+
+        <div class="social-layout">
+          <div class="copy-block">
+            <p>
+              Educational, search-optimized social content that helps local
+              businesses stay active, visible, and discoverable online.
+            </p>
+            <ul class="check-list check-list--purple">
+              <li>Consistent social media presence</li>
+              <li>Content aligned with conversational search behavior</li>
+              <li>Optimized around FAQs, services, and customer intent</li>
+              <li>Saves time creating content internally</li>
+              <li>Promotes content with a targeted Meta traffic campaign</li>
+            </ul>
+          </div>
+
+          <div class="social-visual">
+            <img src="sme-bubble.png" alt="Social Media Essentials post example displayed on a phone" />
+          </div>
+
+          <div class="workflow-card">
+            <h3>How it works</h3>
+            <ol class="workflow-list">
+              <li>We create social content designed to answer search and conversation questions.</li>
+              <li>Users search or ask AI.</li>
+              <li>AI indexes social content and other resources.</li>
+              <li>Your client shows up in results.</li>
+            </ol>
+          </div>
+        </div>
+
+        <div class="included-grid">
+          <article>
+            <h3>Weekly social posts include</h3>
+            <ul>
+              <li>Caption writing</li>
+              <li>Branded graphics</li>
+              <li>AI search optimization</li>
+              <li>Scheduling included</li>
+            </ul>
+          </article>
+          <article>
+            <h3>Quarterly Meta traffic campaign</h3>
+            <ul>
+              <li>Audience targeting</li>
+              <li>Traffic campaign setup</li>
+              <li>Ad creative included</li>
+              <li><b>Ad spend included - $100/mo</b></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="special" aria-label="Convention special">
+        <div class="special__gift" aria-hidden="true">
+  <img src="gift-icon.png" alt="">
+</div>
+        <div class="special__copy">
+          <p class="eyebrow">Convention special</p>
+          <h2>Close a new client within 60 days and choose your bonus.</h2>
+          <small>Offer valid for qualifying 3-month client agreements signed within 60 days of the convention.</small>
+        </div>
+        <div class="special__offers">
+          <div>15-30 Sec. UGC video</div>
+          <strong>or</strong>
+          <div>8 social media posts</div>
+        </div>
+      </section>
+      <section class="contact-section" id="contact">
+        <div class="contact-copy">
+          <p class="eyebrow eyebrow--purple">Partner support for WSI Agencies</p>
+          <h2>Let's help your clients win.</h2>
+          <p>Book a strategy call with Jonathan to match the right Storytellit offer to your client pipeline.</p>
+          <ul class="check-list check-list--purple">
+            <li>Custom recommendations for your clients</li>
+            <li>Increase performance, visibility, and retention</li>
+            <li>Dedicated support from the Storytellit team</li>
+          </ul>
+        </div>
+
+      <!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/storytellit/introductory-conversation?hide_event_type_details=1&primary_color=ff5f8c" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <img src="storytellit-logo.png" alt="Storytellit" />
+        <p>We help agencies deliver better results and more value to their clients.</p>
+      </div>
+      <nav aria-label="Footer explore links">
+        <h2>Explore</h2>
+        <a href="#ugc">Meta Ads + UGC</a>
+        <a href="#social">Social Media Essentials</a>
+      </nav>
+      <nav aria-label="Footer resources links">
+        <h2>Resources</h2>
+        <a href="#ugc">UGC Examples</a>
+        <a href="#contact">Partner Support</a>
+      </nav>
+      <div>
+        <h2>Questions?</h2>
+        <p>Let's connect.</p>
+        <a href="mailto:wsi@storytellit.com">wsi@storytellit.com</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
